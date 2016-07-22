@@ -1,0 +1,22 @@
+
+#Cantaloupe-image {
+    width: 500px;
+    text-align: center;
+}
+
+#navigation {
+    background-color: Yellowgreen;
+}
+
+#brand {
+    color: black;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+
+.h1, h1 {
+    font-size: 15px;
+    font-weight: bold;
+}
